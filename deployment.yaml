@@ -18,7 +18,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: truongton812/python-web-app:v1.0.0
+      - image: truongton812/python-web-app:v2.0.0
         name: python-web-app
         resources: {}
 status: {}
