@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - truongton812/python-web-app:v4.0.0
+  - truongton812/python-web-app:v5.0.0
